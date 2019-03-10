@@ -1,7 +1,7 @@
 # pynaoqi
 The python2.7 NAOqi SDK
 
-Please use this SDK version. Deprecated version is uploaded on Ald. website.
+Please use this SDK version. A deprecated version is uploaded on Ald. website.
 ```
 $ cd /installation/path/
 $ git clone git@github.com:AnonKour/pynaoqi.git
